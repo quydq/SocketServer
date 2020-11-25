@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T08:14:16.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="mbAPucXI7bpkamCEq2-F" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T08:22:35.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="2VwdOPDyx6nDy-5plUZJ" version="13.10.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="326" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="326" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RVc0fJ-_2hFhuDaeiaC--2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="170" width="620" height="620" as="geometry" />
+          <mxGeometry x="1110" y="-110" width="1080" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="RVc0fJ-_2hFhuDaeiaC--4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="1">
           <mxGeometry x="1230" y="90" width="39.35" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RVc0fJ-_2hFhuDaeiaC--6" value="API Gateway,Chat Server&amp;nbsp; :&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;10.62.142.70&lt;/font&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="180" width="114.7" height="150" as="geometry" />
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--6" value="Server API Gateway,Chat Server&amp;nbsp; :&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;10.62.142.70&lt;/font&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="340" width="114.7" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RVc0fJ-_2hFhuDaeiaC--7" value="DB API GateWay :10.62.142.68" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--7" value="Server DB API GateWay :10.62.142.68" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="1490" y="580" width="114.7" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RVc0fJ-_2hFhuDaeiaC--8" value="API Văn bản điều hành :&lt;span&gt;10.62.193.32&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--8" value="&amp;nbsp;Server API Văn bản điều hành :&lt;span&gt;10.62.193.32&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="1890" y="180" width="114.7" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RVc0fJ-_2hFhuDaeiaC--9" value="API Quản Lí Cán Bộ" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--9" value="Server API Quản Lí Cán Bộ" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="1890" y="590" width="114.7" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RVc0fJ-_2hFhuDaeiaC--14" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="RVc0fJ-_2hFhuDaeiaC--6" target="RVc0fJ-_2hFhuDaeiaC--4">
@@ -54,6 +54,34 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="450" as="sourcePoint" />
             <mxPoint x="1700" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--26" value="&amp;nbsp;Server API&amp;nbsp; Văn bản pháp luật&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="1404.7" y="-70" width="114.7" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--27" value="&amp;nbsp;Server API&amp;nbsp; Tin tức&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="70" width="114.7" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--30" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="RVc0fJ-_2hFhuDaeiaC--26" target="RVc0fJ-_2hFhuDaeiaC--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1331.6460526315789" y="350" as="sourcePoint" />
+            <mxPoint x="1273.3837719298244" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--31" value="Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RVc0fJ-_2hFhuDaeiaC--30">
+          <mxGeometry x="0.1676" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--32" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="RVc0fJ-_2hFhuDaeiaC--27" target="RVc0fJ-_2hFhuDaeiaC--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="97.73543958817004" as="sourcePoint" />
+            <mxPoint x="1279.35" y="135.63086706369245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RVc0fJ-_2hFhuDaeiaC--33" value="Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RVc0fJ-_2hFhuDaeiaC--32">
+          <mxGeometry x="0.1676" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
